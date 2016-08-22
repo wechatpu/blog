@@ -1,0 +1,2 @@
+# blog
+bolg of xiaoming
